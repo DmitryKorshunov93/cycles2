@@ -86,7 +86,7 @@ public class Main {
         for (i = friday; i <= 31; i+=7){
             System.out.println("Сегодня пятница, " + i + "-е число. Необходимо подготовить отчет");}
 
-        System.out.println("Задание №8");
+        System.out.println("Задание №8 ");
 
         int years = 2023;
         int years200 = years - 200;
